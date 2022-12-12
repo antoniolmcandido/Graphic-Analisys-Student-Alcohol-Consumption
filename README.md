@@ -6,7 +6,7 @@
 
 <h1 align="center"> Graphic Analisys: Student-Alcohol-Consumption </h1>
 
-<p align="center">Análise Grágica de dados de estudantes do Ensino Médio, desenvolvida para a disciplina de Técnicas de Programação II da Formação de Pyhton e Dados - Ada<p>
+<p align="center">Análise Grágica de dados de estudantes do Ensino Médio<p>
 <p align="center">
     <a href="##Autores">Autores</a> |
     <a href="##Tecnologias">Tecnologias</a> |
@@ -39,8 +39,3 @@
 <br>
 
 ---
-
-## Projeto
-
-[Graphic Analisys: Student-Alcohol-Consumption](https://github.com/Vinicius999/Graphic-Analisys-Student-Alcohol-Consumption/blob/main/Graphic_Analisys_Student_Alcohol_Consumption.ipynb)
-
