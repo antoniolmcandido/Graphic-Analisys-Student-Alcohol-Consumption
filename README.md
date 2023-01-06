@@ -16,16 +16,6 @@
 
 ---
 
-# Autores
-
-- [Antonio Leandro Martins Candido](https://github.com/antoniolmcandido)
-- [Augusto Vinicius da Silva](https://github.com/Vinicius999)
-- [Hugo Rafael Freitas Negrão](https://github.com/hugonegrao) 
-
-<br>
-
----
-
 ## Tecnologias
 
 <p style='margin: 16px 4px 32px;'>
