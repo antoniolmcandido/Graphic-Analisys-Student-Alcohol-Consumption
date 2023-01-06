@@ -7,12 +7,6 @@
 <h1 align="center"> Graphic Analisys: Student-Alcohol-Consumption </h1>
 
 <p align="center">Análise Grágica de dados de estudantes do Ensino Médio<p>
-<p align="center">
-    <a href="##Autores">Autores</a> |
-    <a href="##Tecnologias">Tecnologias</a> |
-    <a href="##Projeto">Projeto</a> 
-</p>
-<br>
 
 ---
 
@@ -26,6 +20,3 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
     </a>
 </p>
-<br>
-
----
